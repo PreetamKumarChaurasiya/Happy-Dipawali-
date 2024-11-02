@@ -13,4 +13,5 @@ HTML: For the structure of the webpage.
 CSS: For styling and creating animations.
 
 
-Copyright Mohit_Rajak 2024
+Copyright Preetam Kumar Chaurasiya 
+link https://preetamkumarchaurasiya.github.io/Happy-Dipawali-/
